@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4efab6c1adf0b2840be3cfd100846b2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - karta: {instanceID: 0}
+  - sprajt: {instanceID: 0}
+  - igracPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

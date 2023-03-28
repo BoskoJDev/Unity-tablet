@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: f48d3b9145812764ebf590bf914dd829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2116956236265713573
+    second: AsTref
+  - first:
+      213: 2955960351532406849
+    second: DvojkaTref
+  - first:
+      213: 8001686123807817621
+    second: TrojkaTref
+  - first:
+      213: -8735103316171483481
+    second: CetvorkaTref
+  - first:
+      213: -7701264112682474082
+    second: PeticaTref
+  - first:
+      213: -6046262274869960374
+    second: SesticaTref
+  - first:
+      213: -2530067002914313275
+    second: SedmicaTref
+  - first:
+      213: 3874508717264583172
+    second: OsmicaTref
+  - first:
+      213: -761344136877458609
+    second: DevetkaTref
+  - first:
+      213: -7456861234962073170
+    second: DesetkaTref
+  - first:
+      213: -8956282501587494190
+    second: ZandarTref
+  - first:
+      213: 4793991610060857420
+    second: DamaTref
+  - first:
+      213: 3870899395655983338
+    second: KraljTref
+  - first:
+      213: -4162814708421835872
+    second: AsPik
+  - first:
+      213: -3329728421503734464
+    second: DvojkaPik
+  - first:
+      213: -1808595935804608357
+    second: TrojkaPik
+  - first:
+      213: -3445552472835019074
+    second: CetvorkaPik
+  - first:
+      213: -470030824445484367
+    second: PeticaPik
+  - first:
+      213: -4125122175269856845
+    second: SesticaPik
+  - first:
+      213: 8432501584683612378
+    second: SedmicaPik
+  - first:
+      213: -7993703553287628433
+    second: OsmicaPik
+  - first:
+      213: -141975751823048665
+    second: DevetkaPik
+  - first:
+      213: 6561120799356944025
+    second: DesetkaPik
+  - first:
+      213: 1286204586186780779
+    second: ZandarPik
+  - first:
+      213: 1586230254580718243
+    second: DamaPik
+  - first:
+      213: 379849074651964486
+    second: KraljPik
+  - first:
+      213: -6606879624795744723
+    second: AsHerc
+  - first:
+      213: 755762120098741977
+    second: DvojkaHerc
+  - first:
+      213: 7500408568559059497
+    second: TrojkaHerc
+  - first:
+      213: 9188469182107712417
+    second: CetvorkaHerc
+  - first:
+      213: -7256847846391884342
+    second: PeticaHerc
+  - first:
+      213: -8928667367706935921
+    second: SesticaHerc
+  - first:
+      213: -438916339816361569
+    second: SedmicaHerc
+  - first:
+      213: -6884292863242156023
+    second: OsmicaHerc
+  - first:
+      213: 3751057418763751002
+    second: DevetkaHerc
+  - first:
+      213: -2040968397562374539
+    second: DesetkaHerc
+  - first:
+      213: 1005865968970701830
+    second: ZandarHerc
+  - first:
+      213: -5647957464671621475
+    second: DamaHerc
+  - first:
+      213: 726351206027926434
+    second: KraljHerc
+  - first:
+      213: 4939458764069547650
+    second: AsKaro
+  - first:
+      213: 6801979007214460844
+    second: DvojkaKaro
+  - first:
+      213: 8345906706677916179
+    second: TrojkaKaro
+  - first:
+      213: -6469199658893818531
+    second: CetvorkaKaro
+  - first:
+      213: -5192072601640579193
+    second: PeticaKaro
+  - first:
+      213: 554122577676203667
+    second: SesticaKaro
+  - first:
+      213: 3262965335886462104
+    second: SedmicaKaro
+  - first:
+      213: -4707924965337121500
+    second: OsmicaKaro
+  - first:
+      213: -7790308758472172432
+    second: DevetkaKaro
+  - first:
+      213: 8348509819662344808
+    second: DesetkaKaro
+  - first:
+      213: 5273699037157945863
+    second: ZandarKaro
+  - first:
+      213: 769945485255045833
+    second: DamaKaro
+  - first:
+      213: 2060450975337764152
+    second: KraljKaro
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AsTref
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50955ce48f0f92e0800000000000000
+      internalID: -2116956236265713573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvojkaTref
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 296
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485a33474ea50920800000000000000
+      internalID: 2955960351532406849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrojkaTref
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbcb58223bb0f60800000000000000
+      internalID: 8001686123807817621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CetvorkaTref
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 296
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6134380dda6c680800000000000000
+      internalID: -8735103316171483481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeticaTref
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 296
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e812b71d9f1590800000000000000
+      internalID: -7701264112682474082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SesticaTref
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 295
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e787de7c571ca0800000000000000
+      internalID: -6046262274869960374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SedmicaTref
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 296
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbea59377563ecd0800000000000000
+      internalID: -2530067002914313275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsmicaTref
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 296
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab5bb762505c530800000000000000
+      internalID: 3874508717264583172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevetkaTref
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 296
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb7919a892f65f0800000000000000
+      internalID: -761344136877458609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesetkaTref
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 296
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea974b60738e38890800000000000000
+      internalID: -7456861234962073170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZandarTref
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 296
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da94d86484e4b380800000000000000
+      internalID: -8956282501587494190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamaTref
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 297
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4061ed38fda78240800000000000000
+      internalID: 4793991610060857420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KraljTref
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 296
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0695fcd7238b530800000000000000
+      internalID: 3870899395655983338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsPik
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3ceb60416ba36c0800000000000000
+      internalID: -4162814708421835872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvojkaPik
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 198
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6fbd64ad6ac1d0800000000000000
+      internalID: -3329728421503734464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrojkaPik
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 197
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b628249396e6e0800000000000000
+      internalID: -1808595935804608357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CetvorkaPik
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 198
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe23b10840fe20d0800000000000000
+      internalID: -3445552472835019074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeticaPik
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2617b947d1a79f0800000000000000
+      internalID: -470030824445484367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SesticaPik
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 198
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b914f7cc3f90c6c0800000000000000
+      internalID: -4125122175269856845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SedmicaPik
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 198
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83cf29383460570800000000000000
+      internalID: 8432501584683612378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsmicaPik
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69538288f8a01190800000000000000
+      internalID: -7993703553287628433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevetkaPik
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204ed15ec9970ef0800000000000000
+      internalID: -141975751823048665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesetkaPik
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 198
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef81eca98cd0b50800000000000000
+      internalID: 6561120799356944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZandarPik
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 197
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60342ca14489d110800000000000000
+      internalID: 1286204586186780779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamaPik
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 199
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad248230c630610800000000000000
+      internalID: 1586230254580718243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KraljPik
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 198
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64424ea88be754500800000000000000
+      internalID: 379849074651964486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsHerc
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26984a6cf5af44a0800000000000000
+      internalID: -6606879624795744723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvojkaHerc
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7e2fd4a10d7a00800000000000000
+      internalID: 755762120098741977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrojkaHerc
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 100
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922424faaddc61860800000000000000
+      internalID: 7500408568559059497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CetvorkaHerc
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab772dd900048f70800000000000000
+      internalID: 9188469182107712417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeticaHerc
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d0c6055f7a4b90800000000000000
+      internalID: -7256847846391884342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SesticaHerc
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 101
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db43ec550071480800000000000000
+      internalID: -8928667367706935921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SedmicaHerc
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 100
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9191271ae7a8e9f0800000000000000
+      internalID: -438916339816361569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsmicaHerc
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 101
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c1bc8d141670a0800000000000000
+      internalID: -6884292863242156023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevetkaHerc
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 100
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec18139de6e0430800000000000000
+      internalID: 3751057418763751002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesetkaHerc
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 100
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761f715e060da3e0800000000000000
+      internalID: -2040968397562374539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZandarHerc
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 101
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c172cf4cd85fd00800000000000000
+      internalID: 1005865968970701830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamaHerc
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 101
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e6bbb2c9c6e91b0800000000000000
+      internalID: -5647957464671621475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KraljHerc
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 100
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9871d294841a00800000000000000
+      internalID: 726351206027926434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsKaro
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2e07539b7c8440800000000000000
+      internalID: 4939458764069547650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvojkaKaro
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9eae5edb756e50800000000000000
+      internalID: 6801979007214460844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrojkaKaro
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31266146eed92d370800000000000000
+      internalID: 8345906706677916179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CetvorkaKaro
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d554e8e7f29c836a0800000000000000
+      internalID: -6469199658893818531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeticaKaro
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fcc234a7d02f7b0800000000000000
+      internalID: -5192072601640579193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SesticaKaro
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f96c6c83a0b700800000000000000
+      internalID: 554122577676203667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SedmicaKaro
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfcef5fa1684d20800000000000000
+      internalID: 3262965335886462104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsmicaKaro
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d33eb00371aaeb0800000000000000
+      internalID: -4707924965337121500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevetkaKaro
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd6a0857343e390800000000000000
+      internalID: -7790308758472172432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesetkaKaro
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a5dcd27ddbd370800000000000000
+      internalID: 8348509819662344808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZandarKaro
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027e124551ff2940800000000000000
+      internalID: 5273699037157945863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamaKaro
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fa09e6556faa00800000000000000
+      internalID: 769945485255045833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KraljKaro
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 3
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355d1ece31389c10800000000000000
+      internalID: 2060450975337764152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DevetkaKaro: -7790308758472172432
+      SesticaHerc: -8928667367706935921
+      KraljKaro: 2060450975337764152
+      ZandarHerc: 1005865968970701830
+      CetvorkaPik: -3445552472835019074
+      AsHerc: -6606879624795744723
+      SedmicaKaro: 3262965335886462104
+      PeticaKaro: -5192072601640579193
+      KraljHerc: 726351206027926434
+      DamaHerc: -5647957464671621475
+      SesticaKaro: 554122577676203667
+      SesticaPik: -4125122175269856845
+      TrojkaTref: 8001686123807817621
+      PeticaPik: -470030824445484367
+      KraljPik: 379849074651964486
+      TrojkaHerc: 7500408568559059497
+      SedmicaPik: 8432501584683612378
+      CetvorkaHerc: 9188469182107712417
+      AsTref: -2116956236265713573
+      CetvorkaTref: -8735103316171483481
+      ZandarPik: 1286204586186780779
+      DamaPik: 1586230254580718243
+      OsmicaPik: -7993703553287628433
+      PeticaHerc: -7256847846391884342
+      DevetkaTref: -761344136877458609
+      AsPik: -4162814708421835872
+      OsmicaTref: 3874508717264583172
+      DvojkaKaro: 6801979007214460844
+      TrojkaKaro: 8345906706677916179
+      ZandarTref: -8956282501587494190
+      OsmicaHerc: -6884292863242156023
+      OsmicaKaro: -4707924965337121500
+      DvojkaHerc: 755762120098741977
+      DevetkaPik: -141975751823048665
+      DesetkaPik: 6561120799356944025
+      CetvorkaKaro: -6469199658893818531
+      SesticaTref: -6046262274869960374
+      KraljTref: 3870899395655983338
+      SedmicaHerc: -438916339816361569
+      TrojkaPik: -1808595935804608357
+      DamaKaro: 769945485255045833
+      PeticaTref: -7701264112682474082
+      DevetkaHerc: 3751057418763751002
+      ZandarKaro: 5273699037157945863
+      DvojkaPik: -3329728421503734464
+      DvojkaTref: 2955960351532406849
+      DesetkaTref: -7456861234962073170
+      DesetkaKaro: 8348509819662344808
+      DesetkaHerc: -2040968397562374539
+      SedmicaTref: -2530067002914313275
+      AsKaro: 4939458764069547650
+      DamaTref: 4793991610060857420
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
